@@ -13,6 +13,14 @@
   <li>Aplicativo para entregas de comidas</li>
   <li>Pedir comida</li>
 </ul>
+<br>
+<br>
+<div align="center">
+  <h2 align="center">Tela do Aplicativo</h2>
+  <img src="https://github.com/DeangellesES/aplicativo_delivery-ReactNative/blob/main/app-food-delivery.png" width="300"/>
+</div>
+<br><br><br>
+
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
