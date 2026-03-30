@@ -20,5 +20,9 @@
   <li>json-server para subir API fake</li>
   <li>items renderizado na tela com fetch na API fake</li>
   <li>statusBarHeight para calcular melhor distância no top de acordo com cada modelo de celular</li>
+  <li>configurado para ser desonvolvido com tailwindCSS</li>
+  <li>Feather, Ionicons de expo/vector-icons para icones usados </li>
+  <li>tipagem com typescript</li>
+  <li>hooks useState e useEffect</li>
 </ul>
 
