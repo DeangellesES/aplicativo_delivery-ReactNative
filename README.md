@@ -1,7 +1,7 @@
 <h1>Projeto: Aplicativo de Entregas de Comidas</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Projeto Front-End de um aplicativo pra entregas de comidas, site desenvolvido durante um curso de React-Native.</p>
+<p>Projeto Front-End fictício de um aplicativo pra entregas de comidas, site desenvolvido durante um curso de React-Native.</p>
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
