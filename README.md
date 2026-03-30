@@ -16,7 +16,7 @@
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>contruido com expo</li>
+  <li>construido com expo</li>
   <li>json-server para subir API fake</li>
   <li>items renderizado na tela com fetch na API fake</li>
   <li>statusBarHeight para calcular melhor distância no top de acordo com cada modelo de celular</li>
